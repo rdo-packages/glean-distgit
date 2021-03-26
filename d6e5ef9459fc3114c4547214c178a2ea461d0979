@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "488d947b_85e3f55a",
+        "filename": "python-glean.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2021-03-26T14:47:31Z",
+      "side": 1,
+      "message": "break description in multiple line, rpmlint complains E: description-line-too-long",
+      "revId": "d6e5ef9459fc3114c4547214c178a2ea461d0979",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "81fe2e64_891205ae",
+        "filename": "python-glean.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2021-03-26T14:47:31Z",
+      "side": 1,
+      "message": "can move git-core above at line 28 as it\u0027s needed in %prep.",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 23
+      },
+      "revId": "d6e5ef9459fc3114c4547214c178a2ea461d0979",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    }
+  ]
+}
