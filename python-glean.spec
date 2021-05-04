@@ -122,3 +122,4 @@ PYTHON=%{__python3} %{__python3} setup.py testr
 %endif
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/opendev/glean/commit/0eefc7321ed372ce1e1060eff4e5c650cc19f62b
