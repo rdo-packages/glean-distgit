@@ -105,7 +105,6 @@ PYTHON=%{__python3} %{__python3} setup.py testr
 %files -n python3-%{sname}
 %license LICENSE
 %{_bindir}/glean
-%{_bindir}/glean.sh
 %{_bindir}/glean-install
 %{python3_sitelib}/%{sname}
 %{python3_sitelib}/%{sname}-*.egg-info
