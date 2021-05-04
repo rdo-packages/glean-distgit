@@ -1,0 +1,9 @@
+Code-Review+2: Dmitry Tantsur <dtantsur@protonmail.com>
+Code-Review+2: Riccardo Pittau <elfosardo@gmail.com>
+Workflow+1: Riccardo Pittau <elfosardo@gmail.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Tue, 04 May 2021 09:08:51 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/openstack/glean-distgit/+/33571
+Project: openstack/glean-distgit
+Branch: refs/heads/rpm-master
