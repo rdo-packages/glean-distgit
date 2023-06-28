@@ -16,6 +16,24 @@
       "message": "reqs for subpackage should be left",
       "revId": "2c3515f3cd8a928aa8bc9f55b116ffa3254a0e9d",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34a15c13_6f71c5a2",
+        "filename": "python-glean.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-06-28T11:56:36Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "7de09181_736d73ef",
+      "revId": "2c3515f3cd8a928aa8bc9f55b116ffa3254a0e9d",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
