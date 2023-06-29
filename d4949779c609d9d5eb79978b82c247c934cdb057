@@ -46,6 +46,30 @@
       },
       "revId": "d4949779c609d9d5eb79978b82c247c934cdb057",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "886e2ac0_bbcb1d18",
+        "filename": "python-glean.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-06-29T14:00:07Z",
+      "side": 1,
+      "message": "Thank you for the clarification!",
+      "parentUuid": "6e845f9d_a3183afe",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 18
+      },
+      "revId": "d4949779c609d9d5eb79978b82c247c934cdb057",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
