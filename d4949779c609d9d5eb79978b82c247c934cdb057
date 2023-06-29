@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d108daa8_515dd370",
+        "filename": "python-glean.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-06-29T12:11:44Z",
+      "side": 1,
+      "message": "DLRN enables with_doc by default, but I think we should declare it before l.6, otherwise we might hit issues when rebuilding on Fedora (not for this package particularly but for the clients)",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 18
+      },
+      "revId": "d4949779c609d9d5eb79978b82c247c934cdb057",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
