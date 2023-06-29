@@ -8,7 +8,7 @@
 %global excluded_brs %{excluded_brs} sphinx openstackdocstheme
 %endif
 
-%global with_doc 1
+%global with_doc 0
 %global sname glean
 
 %global common_desc \
