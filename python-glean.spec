@@ -138,3 +138,4 @@ chmod 755 %{buildroot}/%{python3_sitelib}/%{sname}/init/python-glean.template
 %endif
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/opendev/glean/commit/528f7216c64b459c2028a2ba81149548862b58b5
