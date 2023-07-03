@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a2456fd9_fa25110c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-07-03T15:05:54Z",
+      "side": 1,
+      "message": "branch creation requested https://review.rdoproject.org/r/c/config/+/49133",
+      "revId": "5babfcac269a97e4f8daa42fcc566ff2d10544a7",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
