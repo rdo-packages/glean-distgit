@@ -1,5 +1,5 @@
 %{!?sources_gpg: %{!?dlrn:%global sources_gpg 1} }
-%global sources_gpg_sign 0x5d2d1e4fb8d38e6af76c50d53d4fec30cf5ce3da
+%global sources_gpg_sign 0xa63ea142678138d1bb15f2e303bdfd64dd164087
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 # we are excluding some BRs from automatic generator
 %global excluded_brs doc8 bandit pre-commit hacking flake8-import-order
@@ -18,8 +18,8 @@ provided in a configuration drive.
 %global common_desc_tests Tests for Glean
 
 Name: python-%{sname}
-Version: XXX
-Release: XXX
+Version: 1.23.0
+Release: 2%{?dist}
 Summary: Configure a system based on a configuration drive
 License: Apache-2.0
 URL: https://opendev.org/opendev/glean
@@ -138,3 +138,6 @@ chmod 755 %{buildroot}/%{python3_sitelib}/%{sname}/init/python-glean.template
 %endif
 
 %changelog
+* Fri Mar 15 2024 RDO <dev@lists.rdoproject.org> 1.23.0-2
+- Build 1.23.0 in Caracal
+
