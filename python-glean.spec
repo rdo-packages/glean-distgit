@@ -141,3 +141,4 @@ chmod 755 %{buildroot}/%{python3_sitelib}/%{sname}/init/python-glean.template
 * Wed Sep 18 2024 RDO <dev@lists.rdoproject.org> 1.24.0-1
 - Update to 1.24.0
 
+# REMOVEME: error caused by commit https://opendev.org/opendev/glean/commit/642fffe0203a8ffcc2443db529af49f54fb3b94f
